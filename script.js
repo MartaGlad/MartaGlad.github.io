@@ -1,6 +1,6 @@
 $(document).ready(function() {
 
-  var apiRoot = 'https://tasks-1103.onrender.com//v1/tasks';
+  var apiRoot = 'https://tasks-1103.onrender.com/v1/tasks';
   var datatableRowTemplate = $('[data-datatable-row-template]').children()[0];
   var tasksContainer = $('[data-tasks-container]');
 
